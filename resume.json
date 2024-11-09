@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "theme": "elegant"
+  },
+  "basics": {
+    "name": "Anastasiia Volosevych",
+    "label": "Web Developer",
+    "image": "https://avatars.githubusercontent.com/u/66918031?v=4",
+    "summary": "I am passionate about coding, a quick learner, and a team player, always eager to take on new challenges.",
+    "website": "https://volosevych.github.io/portfolio/",
+    "email": "anastasiiavolosevych@gmail.com",
+    "location": {
+      "city": "Saratoga Springs",
+      "countryCode": "UT"
+    },
+    "profiles": [
+      {
+        "url": "https://github.com/volosevych",
+        "username": "volosevych",
+        "network": "github"
+      }
+    ]
+  },
+  "education": [
+    {
+      "endDate": "2022-10-1",
+      "startDate": "2024-01-12",
+      "area": "Computer Science (incomplete)",
+      "studyType": "Bachelors",
+      "institution": "Western Governors University"
+    }
+  ],
+  "skills": [
+    {
+      "keywords": [
+        "HTML / JSX",
+        "SCSS / CSS / SASS / Styled Components",
+        "Javascript / Typescript",
+        "React / Next"
+      ],
+      "level": "Mid",
+      "name": "Frontend"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Hiking"
+    },
+    {
+      "name": "Music / Jamming"
+    },
+    {
+      "name": "Reading / Writing"
+    },
+    {
+      "name": "Open Source"
+    }
+  ]
+}
