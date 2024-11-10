@@ -6,7 +6,7 @@
     "name": "Anastasiia Volosevych",
     "label": "Web Developer",
     "image": "https://avatars.githubusercontent.com/u/66918031?v=4",
-    "summary": "I am passionate about coding, a quick learner, and a team player, always eager to take on new challenges.",
+    "summary": "I am a Web Developer/Designer with over 4 years of hands-on experience, specializing in creating beautiful, user-friendly websites.",
     "website": "https://volosevych.github.io/portfolio/",
     "email": "anastasiiavolosevych@gmail.com",
     "location": {
@@ -14,6 +14,11 @@
       "countryCode": "UT"
     },
     "profiles": [
+      {
+        "username": "kuromayuu",
+        "url": "x.com/kuromayuu",
+        "network": "twitter"
+      },
       {
         "url": "https://github.com/volosevych",
         "username": "volosevych",
@@ -23,11 +28,34 @@
   },
   "education": [
     {
-      "endDate": "2022-10-01",
-      "startDate": "2024-01-12",
+      "endDate": "2024-01-12",
+      "startDate": "2022-10-01",
       "area": "Computer Science (incomplete)",
       "studyType": "Bachelors",
       "institution": "Western Governors University"
+    },
+    {
+      "institution": "University of Technology",
+      "url": "https://www.wgu.edu/online-it-degrees/computer-science.html",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2022-10-01",
+      "endDate": "2024-01-12",
+      "score": "3.5 GPA",
+      "courses": [
+        "Ethics in Technology",
+        "Fundamentals of Information Security",
+        "Calculus I",
+        "Scripting and Programming - Applications",
+        "Network and Security - Foundations",
+        "Scripting and Programming - Foundations"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "reference": "I LOVED working with Anastatia. We had an immediate, easy rapport. She was so accommodating, so easy to work with, so responsive, and ultimately, so insightful and helpful. A total professional who knows her stuff. She was able to do everything I wanted and more. My finished website exceeded my expectations. I Will definitely work with her again",
+      "name": "Kamel Greene"
     }
   ],
   "skills": [
@@ -40,6 +68,22 @@
       ],
       "level": "Mid",
       "name": "Frontend"
+    },
+    {
+      "keywords": [
+        "Node",
+        "Python"
+      ],
+      "level": "Junior",
+      "name": "Backend"
+    },
+    {
+      "keywords": [
+        "Netlify",
+        "Heroku"
+      ],
+      "level": "Junior",
+      "name": "Devops"
     }
   ],
   "interests": [
