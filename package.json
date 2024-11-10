@@ -4,15 +4,19 @@
     "description": "This is the resume of Anastasiia Volosevych. Goddess of web development.",
     "main": "index.js",
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
-      "type": "git",
-      "url": "git+https://github.com/volosevych/resume.git"
+        "type": "git",
+        "url": "git+https://github.com/volosevych/resume.git"
     },
     "keywords": [
-      "resume"
+        "resume"
     ],
     "author": "Anastasiia Volosevych",
-    "license": "ISC"
-  }
+    "license": "ISC",
+    "dependencies": {
+        "jsonresume-theme-professional": "^1.1.0",
+        "jspdf": "^2.5.2"
+    }
+}
