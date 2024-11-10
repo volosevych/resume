@@ -54,10 +54,10 @@
   "skills": [
     {
       "keywords": [
-        "HTML / JSX",
-        "SCSS / CSS / SASS / Styled Components",
+        "HTML / JSX / PHP",
+        "SCSS / CSS / SASS / Styled Components / Tailwind CSS / Bootrsrap / MaterialUI",
         "Javascript / Typescript",
-        "React / Next"
+        "React / Next / Vue"
       ],
       "level": "Mid",
       "name": "Frontend"
