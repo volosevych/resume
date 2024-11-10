@@ -28,16 +28,9 @@
   },
   "education": [
     {
-      "endDate": "2024-01-12",
-      "startDate": "2022-10-01",
-      "area": "Computer Science (incomplete)",
-      "studyType": "Bachelors",
-      "institution": "Western Governors University"
-    },
-    {
-      "institution": "University of Technology",
+      "institution": "Western Governors University",
       "url": "https://www.wgu.edu/online-it-degrees/computer-science.html",
-      "area": "Computer Science",
+      "area": "Computer Science (incomplete)",
       "studyType": "Bachelor",
       "startDate": "2022-10-01",
       "endDate": "2024-01-12",
