@@ -79,18 +79,39 @@
       "name": "Devops"
     }
   ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+
+    {
+      "language": "Russian",
+      "fluency": "Native Speaker"
+    },
+
+    {
+      "language": "Ukrainian",
+      "fluency": "Native Speaker"
+    }
+  ],
   "interests": [
     {
+      "name": "Gardening",
+      "keywords": [
+        "Lazy Gardening"
+      ]
+    },
+
+    {
+      "name": "Books",
+      "keywords": [
+        "History"
+      ]
+    },
+
+    {
       "name": "Hiking"
-    },
-    {
-      "name": "Music / Jamming"
-    },
-    {
-      "name": "Reading / Writing"
-    },
-    {
-      "name": "Open Source"
     }
   ]
 }
