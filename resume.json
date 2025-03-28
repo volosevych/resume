@@ -4,21 +4,16 @@
   },
   "basics": {
     "name": "Anastasiia Volosevych",
-    "label": "Web Developer",
+    "label": "Front End Developer",
     "image": "https://avatars.githubusercontent.com/u/66918031?v=4",
-    "summary": "I am a Web Developer/Designer with over 4 years of hands-on experience, specializing in creating beautiful, user-friendly websites.",
-    "website": "https://volosevych.github.io/portfolio/",
+    "summary": "Front-End Developer with a focus on modern technologies, responsive user interfaces, and clean, maintainable code. Experienced in turning design concepts into functional, accessible websites and collaborating closely with clients and developers to deliver polished front-end solutions.",
+    "website": "https://nextjs-anas-portfolio.netlify.app/",
     "email": "anastasiiavolosevych@gmail.com",
     "location": {
       "city": "Saratoga Springs",
       "countryCode": "UT"
     },
     "profiles": [
-      {
-        "username": "kuromayuu",
-        "url": "https://x.com/kuromayuu",
-        "network": "twitter"
-      },
       {
         "url": "https://github.com/volosevych",
         "username": "volosevych",
@@ -30,7 +25,7 @@
     {
       "institution": "Western Governors University",
       "url": "https://www.wgu.edu/online-it-degrees/computer-science.html",
-      "area": "Computer Science (incomplete)",
+      "area": "Computer Science",
       "studyType": "Bachelor",
       "startDate": "2022-10-01",
       "endDate": "2024-01-12",
@@ -41,31 +36,61 @@
         "Calculus I",
         "Scripting and Programming - Applications",
         "Network and Security - Foundations",
-        "Scripting and Programming - Foundations"
+        "Scripting and Programming - Foundations",
+        "Computer Science Project Development with a Team"
       ]
     }
   ],
-  "references": [
+  "work": [
     {
-      "reference": "I LOVED working with Anastasia. We had an immediate, easy rapport. She was so accommodating, so easy to work with, so responsive, and ultimately, so insightful and helpful. A total professional who knows her stuff. She was able to do everything I wanted and more. My finished website exceeded my expectations. I Will definitely work with her again",
-      "name": "Kamel Greene"
+      "organisation": "Upwork (Part-Time Contractor)",
+      "position": "Front-End Developer",
+      "startDate": "2024-12-20",
+      "endDate": "Present",
+      "summary": "Collaborated with clients on Upwork to deliver responsive, user-friendly websites using modern front-end technologies. Translated design files into clean code, customized layouts for various industries, and ensured performance and cross-browser compatibility.",
+      "highlights": [
+        "Built and maintained responsive websites using HTML, Tailwind CSS, Bootstrap, and JavaScript.",
+        "Converted Figma designs into fully functional UI components optimized for performance and accessibility.",
+        "Collaborated with clients and back-end developers to ensure smooth integration and functionality."
+      ]
+    },
+    {
+      "organisation": "Upwork (Full-Time Contractor)",
+      "position": "Front-End Developer",
+      "startDate": "2025-2-10",
+      "endDate": "Present",
+      "summary": "Worked full-time with international clients via Upwork to develop and enhance modern websites across various niches. Focused on creating scalable components, reusable layouts, and customized user interfaces aligned with each client's brand and functionality goals.",
+      "highlights": [
+        "Developed fully responsive websites using HTML, Bootstrap, and JavaScript tailored to client needs.",
+        "Implemented reusable components and scalable layouts for faster development and easier maintenance.",
+        "Translated Figma and Adobe XD designs into functional interfaces with a focus on accessibility and performance.",
+        "Collaborated directly with clients and back-end developers to integrate APIs and ensure end-to-end functionality.",
+        "Delivered multiple web projects under tight deadlines while maintaining high-quality standards."
+      ]
     }
   ],
   "skills": [
     {
       "keywords": [
         "HTML / JSX / PHP",
-        "SCSS / CSS / SASS / Styled Components / Tailwind CSS / Bootrsrap / MaterialUI",
-        "Javascript / Typescript",
-        "React / Next / Vue"
+        "SCSS / CSS / SASS / Styled Components / Tailwind CSS / Bootstrap / Material UI",
+        "JavaScript / TypeScript",
+        "React / Next.js / Vue.js",
+        "Figma to Code Conversion",
+        "Responsive Design / Mobile-First Development",
+        "Cross-Browser Compatibility",
+        "Component-Based Architecture"
       ],
       "level": "Mid",
       "name": "Frontend"
     },
     {
       "keywords": [
-        "Node",
-        "Python"
+        "Node.js",
+        "Laravel",
+        "Express.js",
+        "Firebase (Auth / Firestore)",
+        "REST API Integration"
       ],
       "level": "Junior",
       "name": "Backend"
@@ -73,10 +98,39 @@
     {
       "keywords": [
         "Netlify",
-        "Heroku"
+        "Heroku",
+        "Vercel",
+        "Git / GitHub / GitLab",
+        "CI/CD Basics"
       ],
       "level": "Junior",
-      "name": "Devops"
+      "name": "DevOps"
+    },
+    {
+      "keywords": [
+        "WordPress Theme Development",
+        "Elementor",
+        "Headless CMS (WordPress + React)",
+        "CMS Customization"
+      ],
+      "level": "Junior",
+      "name": "CMS"
+    },
+    {
+      "keywords": [
+        "Team Collaboration",
+        "Client Communication",
+        "Agile Workflow",
+        "Upwork Freelancing"
+      ],
+      "level": "Advanced",
+      "name": "Soft Skills"
+    }
+  ],
+  "references": [
+    {
+      "reference": "I LOVED working with Anastasia. We had an immediate, easy rapport. She was so accommodating, so easy to work with, so responsive, and ultimately, so insightful and helpful. A total professional who knows her stuff. She was able to do everything I wanted and more. My finished website exceeded my expectations. I Will definitely work with her again",
+      "name": "Kamel Greene"
     }
   ],
   "languages": [
@@ -97,21 +151,13 @@
   ],
   "interests": [
     {
-      "name": "Gardening",
-      "keywords": [
-        "Lazy Gardening"
-      ]
+      "name": "Video Games",
+      "keywords": ["Minecraft", "Genshin Impact", "Terraria"]
     },
 
     {
       "name": "Books",
-      "keywords": [
-        "History"
-      ]
-    },
-
-    {
-      "name": "Hiking"
+      "keywords": ["History"]
     }
   ]
 }
