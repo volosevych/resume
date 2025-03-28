@@ -71,62 +71,32 @@
   ],
   "skills": [
     {
-      "keywords": [
-        "HTML / JSX / PHP",
-        "SCSS / CSS / SASS / Styled Components / Tailwind CSS / Bootstrap / Material UI",
-        "JavaScript / TypeScript",
-        "React / Next.js / Vue.js",
-        "Figma to Code Conversion",
-        "Responsive Design / Mobile-First Development",
-        "Cross-Browser Compatibility",
-        "Component-Based Architecture"
-      ],
+      "name": "Frontend",
       "level": "Mid",
-      "name": "Frontend"
+      "keywords": "HTML, JSX, PHP, SCSS, CSS, SASS, Styled Components, Tailwind CSS, Bootstrap, Material UI, JavaScript, TypeScript, React, Next.js, Vue.js, Figma to Code Conversion, Responsive Design, Mobile-First Development, Cross-Browser Compatibility, Component-Based Architecture"
     },
     {
-      "keywords": [
-        "Node.js",
-        "Laravel",
-        "Express.js",
-        "Firebase (Auth / Firestore)",
-        "REST API Integration"
-      ],
+      "name": "Backend",
       "level": "Junior",
-      "name": "Backend"
+      "keywords": "Node.js, Laravel, Express.js, Firebase (Auth), Firebase Firestore, REST API Integration"
     },
     {
-      "keywords": [
-        "Netlify",
-        "Heroku",
-        "Vercel",
-        "Git / GitHub / GitLab",
-        "CI/CD Basics"
-      ],
+      "name": "DevOps",
       "level": "Junior",
-      "name": "DevOps"
+      "keywords": "Netlify, Heroku, Vercel, Git, GitHub, GitLab, CI/CD Basics"
     },
     {
-      "keywords": [
-        "WordPress Theme Development",
-        "Elementor",
-        "Headless CMS (WordPress + React)",
-        "CMS Customization"
-      ],
+      "name": "CMS",
       "level": "Junior",
-      "name": "CMS"
+      "keywords": "WordPress Theme Development, Elementor, Headless CMS (WordPress + React), CMS Customization"
     },
     {
-      "keywords": [
-        "Team Collaboration",
-        "Client Communication",
-        "Agile Workflow",
-        "Upwork Freelancing"
-      ],
+      "name": "Soft Skills",
       "level": "Advanced",
-      "name": "Soft Skills"
+      "keywords": "Team Collaboration, Client Communication, Agile Workflow, Upwork Freelancing"
     }
   ],
+
   "references": [
     {
       "reference": "I LOVED working with Anastasia. We had an immediate, easy rapport. She was so accommodating, so easy to work with, so responsive, and ultimately, so insightful and helpful. A total professional who knows her stuff. She was able to do everything I wanted and more. My finished website exceeded my expectations. I Will definitely work with her again",
