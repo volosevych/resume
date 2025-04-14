@@ -3,22 +3,20 @@ name: Update Gist with Resume
 on:
   push:
     branches:
-      - master 
+      - master
 
 jobs:
   update-gist:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-    - name: Deploy to Gist
-      uses: exuanbo/actions-deploy-gist@v1
-      with:
-        gist_id: 92e9acb0464013d679d8be206f04d505
-        file_path: resume.json
-        file_type: text
-        token: ${{ secrets.TOKEN }}
-
-
+      - name: Deploy to Gist
+        uses: exuanbo/actions-deploy-gist@v1
+        with:
+          gist_id: e7eaa5a10055a6c861ce4d6209fb9bd3
+          file_path: simple-resume.json
+          file_type: text
+          token: ${{ secrets.TOKEN }}
