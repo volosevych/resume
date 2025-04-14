@@ -1,137 +1,86 @@
 {
-  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "meta": {
+    "theme": "professional"
+  },
   "basics": {
     "name": "Anastasiia Volosevych",
-    "label": "Front End Developer",
-    "image": "",
+    "label": "Professional Worker",
+    "image": "https://avatars.githubusercontent.com/u/66918031?v=4",
+    "summary": "Motivated individual with experience in fast-paced environments, passionate about delivering reliable work and contributing to team goals. Strong communication and organizational skills developed through hands-on experience at Amazon and remote collaborations.",
+    "website": "https://nextjs-anas-portfolio.netlify.app/",
     "email": "anastasiiavolosevych@gmail.com",
-    "phone": "(385) 436-7585",
-    "url": "https://nextjs-anas-portfolio.netlify.app/",
-    "summary": "Front-End Developer with a focus on modern technologies, responsive user interfaces, and clean, maintainable code. Experienced in turning design concepts into functional, accessible websites and collaborating closely with clients and developers to deliver polished front-end solutions.",
     "location": {
       "city": "Saratoga Springs",
-      "countryCode": "UT",
-      "postalCode": "84045",
-      "region": "Utah"
+      "countryCode": "UT"
     },
     "profiles": [
       {
-        "network": "GitHub",
+        "url": "https://github.com/volosevych",
         "username": "volosevych",
-        "url": "https://github.com/volosevych"
+        "network": "GitHub"
       }
     ]
   },
-  "work": [
-    {
-      "organisation": "Upwork (Part-Time Contractor)",
-      "position": "Front-End Developer",
-      "startDate": "2024-12-20",
-      "summary": "Collaborated with clients on Upwork to deliver responsive, user-friendly websites using modern front-end technologies. Translated design files into clean code, customized layouts for various industries, and ensured performance and cross-browser compatibility.",
-      "highlights": [
-        "Built and maintained responsive websites using HTML, Tailwind CSS, Bootstrap, and JavaScript.",
-        "Converted Figma designs into fully functional UI components optimized for performance and accessibility.",
-        "Collaborated with clients and back-end developers to ensure smooth integration and functionality."
-      ]
-    },
-    {
-      "organisation": "Upwork (Full-Time Contractor)",
-      "position": "Front-End Developer",
-      "startDate": "2025-02-10",
-      "summary": "Worked full-time with international clients via Upwork to develop and enhance modern websites across various niches. Focused on creating scalable components, reusable layouts, and customized user interfaces aligned with each client's brand and functionality goals.",
-      "highlights": [
-        "Developed fully responsive websites using HTML, Bootstrap, and JavaScript tailored to client needs.",
-        "Implemented reusable components and scalable layouts for faster development and easier maintenance.",
-        "Translated Figma and Adobe XD designs into functional interfaces with a focus on accessibility and performance.",
-        "Collaborated directly with clients and back-end developers to integrate APIs and ensure end-to-end functionality.",
-        "Delivered multiple web projects under tight deadlines while maintaining high-quality standards."
-      ]
-    }
-  ],
   "education": [
     {
       "institution": "Western Governors University",
-      "url": "https://www.wgu.edu/",
+      "url": "https://www.wgu.edu/online-it-degrees/computer-science.html",
       "area": "Computer Science",
-      "studyType": "Bachelors",
+      "studyType": "Bachelor",
       "startDate": "2022-10-01",
       "endDate": "2024-01-12",
       "score": "3.5 GPA",
       "courses": [
         "Ethics in Technology",
         "Fundamentals of Information Security",
-        "Calculus I",
-        "Scripting and Programming - Applications",
-        "Network and Security - Foundations",
-        "Scripting and Programming - Foundations",
-        "Computer Science Project Development with a Team"
+        "Scripting and Programming",
+        "Computer Science Project Development"
       ]
     }
   ],
-  "skills": [
+  "work": [
     {
-      "name": "Front-End Development",
-      "level": "Intermediate",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "React",
-        "Next.js",
-        "Tailwind CSS",
-        "Bootstrap",
-        "TypeScript",
-        "Wordpress",
-        "PHP",
-        "Lavarel",
-        "MySQL",
-        "RESTful APIs"
+      "organisation": "Amazon",
+      "position": "SLAM Operator",
+      "startDate": "2023-01-01",
+      "endDate": "2024-09-01",
+      "summary": "Ensured priority packages were routed efficiently to meet strict deadlines. Solved problems in real-time to maintain workflow and collaborated with other team members to ensure smooth operations.",
+      "highlights": [
+        "Handled time-sensitive deliveries and verified inventory accuracy.",
+        "Worked closely with team members and supervisors to resolve workflow issues.",
+        "Maintained a fast-paced work ethic and quality standards."
       ]
     },
     {
-      "name": "Design Tools",
-      "level": "Intermediate",
-      "keywords": ["Figma", "Adobe XD"]
-    },
+      "organisation": "Upwork",
+      "position": "Freelance Contractor",
+      "startDate": "2024-12-20",
+      "summary": "Collaborated remotely with clients on small tasks, demonstrating strong communication, time management, and organizational skills in a freelance environment.",
+      "highlights": [
+        "Managed freelance responsibilities while maintaining client satisfaction.",
+        "Delivered results within timeframes agreed upon.",
+        "Adapted quickly to various project requirements."
+      ]
+    }
+  ],
+  "references": [
     {
-      "name": "Version Control",
-      "level": "Intermediate",
-      "keywords": ["Git", "GitHub"]
+      "name": "Kamel Greene",
+      "reference": "I LOVED working with Anastasia. We had an immediate, easy rapport. She was so accommodating, so easy to work with, so responsive, and ultimately, so insightful and helpful. A total professional. My finished website exceeded my expectations."
     }
   ],
   "languages": [
     {
       "language": "English",
-      "fluency": "Professional working proficiency"
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Russian",
+      "fluency": "Native Speaker"
     },
     {
       "language": "Ukrainian",
-      "fluency": "Native or bilingual proficiency"
+      "fluency": "Native Speaker"
     }
-  ],
-  "interests": [
-    {
-      "name": "Web Development",
-      "keywords": [
-        "Front-End Technologies",
-        "Responsive Design",
-        "User Experience"
-      ]
-    },
-    {
-      "name": "Design",
-      "keywords": ["UI/UX Design", "Figma", "Adobe XD"]
-    }
-  ],
-  "references": [
-    {
-      "reference": "I LOVED working with Anastasia. We had an immediate, easy rapport. She was so accommodating, so easy to work with, so responsive, and ultimately, so insightful and helpful. A total professional who knows her stuff. She was able to do everything I wanted and more. My finished website exceeded my expectations. I Will definitely work with her again.",
-      "name": "Kamel Greene"
-    }
-  ],
-  "meta": {
-    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/sample.resume.json",
-    "version": "v1.0.0",
-    "lastModified": "2025-3-28T8:24:00"
-  }
+  ]
 }
